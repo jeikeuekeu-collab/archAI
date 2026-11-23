@@ -1,5 +1,6 @@
 수업용 교재나 유인물, 또는 학생들에게 단계별로 안내하기 좋도록 **GitHub 가입부터 첫 파일 업로드(`push`)까지의 전체 표준 절차**를 한눈에 보기 쉽게 정리했습니다.
 
+깃헙주소 : https://github.com/jeikeuekeu-collab/archAI.git
 ---
 
 ### GitHub 첫 시작 및 파일 업로드 단계별 가이드
@@ -39,8 +40,8 @@ git --version
 *(버전 숫자가 나오면 설치 완료. 안 나오면 [git-scm.com](https://git-scm.com/)에서 설치)*
 2. **작성자 정보 등록 (닉네임 및 이메일)**
 ```bash
-git config --global user.name "깃허브_아이디"
-git config --global user.email "1단계에서_복사한_이메일주소"
+git config --global user.name "jeikeuekeu-collab"
+git config --global user.email "360049451+jeikeuekeu-collab@users.noreply.github.com"
 
 ```
 
